@@ -17,3 +17,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alifeil&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![Visitor Count](https://profile-counter.glitch.me/{alifeil}/count.svg)
