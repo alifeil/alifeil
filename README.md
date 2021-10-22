@@ -4,11 +4,19 @@
 🌱 I’m currently learning Machine Learning and Mobile Development
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://img.utdstc.com/icon/c6f/36f/c6f36ff0735c528043bc1a3264f6ff828b2ed29f69e25ccdd78b8006133bcc7f:200" /></a>
-  <a href="#"><img align="left" alt="Android" title="Android" width="21px" src="https://cdn.vox-cdn.com/thumbor/4YrhF65YGLd8OjHv-y8D_zJH4bI=/0x0:2040x1560/1400x933/filters:focal(857x617:1183x943):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65088839/Android_logo_stacked__RGB_.5.jpg" /></a>
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29820/preview_image/kotlin.jpg" /></a>
-  <br>
-  <br>
+ <p>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-C51A4A?style=flat&logo=Kotlin" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
+</p>
 
 ### Github Statistic
 <p align="left">
