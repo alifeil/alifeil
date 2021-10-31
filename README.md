@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning Machine Learning and Mobile Development
+🌱 I’m currently learning Machine Learning
 
 ### Tech Stack
  <p>
